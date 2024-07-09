@@ -1,0 +1,22 @@
+server/node_modules
+
+wheels-world1/node_modules
+wheels-world1//.pnp
+wheels-world1/.pnp.js
+
+# testing
+wheels-world1//coverage
+
+# production
+wheels-world1//build
+
+# misc
+wheels-world1/.DS_Store
+wheels-world1/.env.local
+wheels-world1/.env.development.local
+wheels-world1/.env.test.local
+wheels-world1/.env.production.local
+
+wheels-world1/npm-debug.log*
+wheels-world1/yarn-debug.log*
+wheels-world1/yarn-error.log*
